@@ -1,2 +1,2 @@
-# tictiacapp
+# tictacapp
 Tictac Application game
